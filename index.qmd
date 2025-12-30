@@ -1,0 +1,13 @@
+# Bienvenida {.unnumbered}
+
+## Descripción del programa
+Descubre los fundamentos de la IA, aprende a aprovecharla de forma eficaz en el trabajo y sumérgete en modelos como chatGPT para navegar por el dinámico programa de la IA.
+
+## Cursos del programa
+
+1. [Introduction to AI for Work](01_Introduction_to_ai_for_work/index.qmd)
+2. [Comprender ChatGPT](02_Comprender_chatgpt/index.qmd)
+3. [Comprender el machine learning](03_Comprender_el_machine_learning/index.qmd)
+4. [Conceptos de grandes modelos lingüísticos (LLM)](04_Conceptos_de_grandes_modelos_linguisticos_llm/index.qmd)
+5. [Conceptos de la IA generativa](05_Conceptos_de_la_ia_generativa/index.qmd)
+6. [Etica de la IA](06_Etica_de_la_ia/index.qmd)

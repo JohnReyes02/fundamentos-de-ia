@@ -1,0 +1,67 @@
+project: 
+  type: book
+  output-dir: docs
+
+lang: es
+
+execute: 
+  freeze: auto
+
+book: 
+  title: "Fundamentos de la IA"
+  author: "Edwin John Fredy Reyes Aguirre"
+  reader-mode: false
+  date: last-modified
+
+  sidebar:
+      style: docked
+      search: true
+      collapse-level: 1
+    
+  # En esta seccion se enlaza el repositorio de GitHub
+  repo-url: https://github.com/JohnReyes02/fundamentos-de-ia
+  repo-branch: main
+  repo-actions: [edit, issue, source]
+  sharing: [twitter, facebook, linkedin]
+
+  chapters: 
+    - index.qmd
+
+    - part: "Introduction to AI for Work"
+      chapters: 
+        - 01_Introduction_to_ai_for_work/index.qmd
+
+    - part: "Comprender ChatGPT"
+      chapters: 
+        - 02_Comprender_chatgpt/index.qmd
+
+    - part: "Comprender el machine learning"
+      chapters: 
+        - 03_Comprender_el_machine_learning/index.qmd
+
+    - part: "Conceptos de grandes modelos linüísticos (LLM)"
+      chapters: 
+        - 04_Conceptos_de_grandes_modelos_linguisticos_llm/index.qmd
+
+    - part: "Conceptos de la IA generativa"
+      chapters: 
+        - 05_Conceptos_de_la_ia_generativa/index.qmd
+
+    - part: "Etica de la IA"
+      chapters: 
+        - 06_Etica_de_la_ia/index.qmd
+
+website:
+  site-url: https://johnreyes02.github.io/fundamentos-de-ia/
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-title: 'Contenido'
+    number-sections: false
+    code-copy: true
+    code-overflow: wrap
+    fig-align: center  

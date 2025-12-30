@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fundamentos de la IA",
+    "section": "",
+    "text": "Bienvenida",
+    "crumbs": [
+      "Bienvenida"
+    ]
+  },
+  {
+    "objectID": "index.html#descripción-del-programa",
+    "href": "index.html#descripción-del-programa",
+    "title": "Fundamentos de la IA",
+    "section": "Descripción del programa",
+    "text": "Descripción del programa\nDescubre los fundamentos de la IA, aprende a aprovecharla de forma eficaz en el trabajo y sumérgete en modelos como chatGPT para navegar por el dinámico programa de la IA.",
+    "crumbs": [
+      "Bienvenida"
+    ]
+  },
+  {
+    "objectID": "index.html#cursos-del-programa",
+    "href": "index.html#cursos-del-programa",
+    "title": "Fundamentos de la IA",
+    "section": "Cursos del programa",
+    "text": "Cursos del programa\n\nIntroduction to AI for Work\nComprender ChatGPT\nComprender el machine learning\nConceptos de grandes modelos lingüísticos (LLM)\nConceptos de la IA generativa\nEtica de la IA",
+    "crumbs": [
+      "Bienvenida"
+    ]
+  }
+]
