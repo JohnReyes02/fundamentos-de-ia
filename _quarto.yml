@@ -18,7 +18,6 @@ book:
       search: true
       collapse-level: 1
     
-  # En esta seccion se enlaza el repositorio de GitHub
   repo-url: https://github.com/JohnReyes02/fundamentos-de-ia
   repo-branch: main
   repo-actions: [edit, issue, source]
@@ -64,4 +63,4 @@ format:
     number-sections: false
     code-copy: true
     code-overflow: wrap
-    fig-align: center  
+    fig-align: center
